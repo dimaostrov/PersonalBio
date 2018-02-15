@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+li {
+    font-weight: 700;
+}
+
+a {
+  font-weight: 200;
+}
+
+header {
+    background: black;
+    color: white;
+    font-weight: 600;
+    padding: 5px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
